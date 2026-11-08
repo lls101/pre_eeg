@@ -20,3 +20,7 @@ Clone into `vendor/` and download the official pretrained weights:
 2. `python scripts/m0_splits_5site.py` (or use `splits/splits_5site.json`)
 3. `bash scripts/run_5site.sh cpu` and `bash scripts/run_5site.sh gpu` (PD_SITES=5)
 4. `python scripts/m6_5site_analysis.py`, `m6b_iowa_severity.py`, `m6c_telaviv_severity_ledd.py`
+
+## License
+
+MIT (see `LICENSE`). Third-party models keep their own licenses.
